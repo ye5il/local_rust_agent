@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp.rs
+temp
+temp.exe
+target/
+.venv/
